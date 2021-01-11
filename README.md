@@ -1,7 +1,8 @@
+```
 conda activate faceswap
 conda install opencv
 conda install imageio-ffmpeg -c conda-forge
-
+```
 
 **Notice:** This repository is not operated or maintained by [/u/deepfakes](https://www.reddit.com/user/deepfakes/). Please read the explanation below for details.
 
